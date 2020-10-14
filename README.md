@@ -18,7 +18,7 @@ This GUI Application is not quite there yet (but hopefully soon) Play against th
 ```bash
 >>> cd [into chosen directory]
 >>> git clone git@github.com:CSemper/rock-paper-scissors.git
->>> pip  install tkinter
+>>> pip install tkinter
 >>> pip install tkmacosx
 >>> python3 graphics.py
 ```
