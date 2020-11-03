@@ -25,4 +25,4 @@ This GUI Application is not quite there yet (but hopefully soon) Play against th
 ### Demo:  
 <img width="494" alt="Screenshot 2020-10-14 at 10 37 52 PM" src="https://user-images.githubusercontent.com/70574102/96054568-d3ab9080-0e79-11eb-9817-deff858dcd08.png">
 
-![App Demo](https://youtu.be/IQ8ITkakWZY)
+[App Demo](https://youtu.be/IQ8ITkakWZY)
